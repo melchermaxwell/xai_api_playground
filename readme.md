@@ -21,12 +21,12 @@ This repository is designed as a comprehensive playground to experiment with and
 
 ## Features
 
-- 🔹 Synchronous and asynchronous chat requests  
-- 🔹 System and user prompt support  
-- 🔹 API tool integrations: web search, X search, code execution  
-- 🔹 Function calling with parameter schemas  
-- 🔹 Token and usage reporting  
-- 🔹 Ready to hack, extend, and learn!
+- Synchronous and asynchronous chat requests  
+- System and user prompt support  
+- API tool integrations: web search, X search, code execution  
+- Function calling with parameter schemas  
+- Token and usage reporting  
+- Ready to hack, extend, and learn!
 
 ---
 

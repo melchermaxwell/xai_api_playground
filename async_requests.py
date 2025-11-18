@@ -14,10 +14,10 @@ async def main():
 
     model = "grok-4"
     requests = [
-        "Tell me a joke",
-        "Write a funny haiku",
-        "Generate a funny X post",
-        "Say something unhinged",
+        "What is the longest runway in the USA?",
+        "What is the shortest runway in the USA?",
+        "What is the longest runway in the world?",
+        "What is the shortest runway in the world?",
     ]
     # Define a semaphore to limit concurrent requests (e.g., max 2 concurrent requests at a time)
     max_in_flight_requests = 2
